@@ -1,3 +1,24 @@
 body {
-	background-color: #1243f3;
+	text-align: center;
+}
+body#home {
+	background-color: #ffffff;
+	color: #000000;
+}
+
+body#dead {
+	background-color: red;
+	color: white;
+}
+#main {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	text-align: left;
+	max-width: 800px;
+	margin: 0 auto;
+}
+p, li {
+	font-size: 1rem;
+}
+h1 {
+	2rem;
 }
